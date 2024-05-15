@@ -16,6 +16,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * newchange
  * secondchange
  making a change on github file
+ checking fetch and merge
  */
 public class Student 
 {
